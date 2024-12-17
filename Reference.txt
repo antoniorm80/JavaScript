@@ -10,28 +10,29 @@ Documentación:
    C:\Proyectos\Repositorios\Sergio Code\Javascript\Javascript.docx
 
 Repositorio - Github:
-    
+    https://github.com/antoniorm80/Javascript
+
 Hosting- SiteGround:
   
 Youtube - Curso de Javascropt: - 8:17:00
     
 Task: <----- ✅✴️⛔ ----->
-    1.- [✅] Instalación programas
-    2.- [✅] -----
+    1.- [✅] Instalación de Programas
+    2.- [✅] Javascript en HTML
     3.- [✅] Declaraciones y Asignaciones
-    4.- [⛔] -----
-    5.- [⛔] -----
-    6.- [⛔] -----
-    7.- [⛔] -----
-    8.- [⛔] ----- 
-    9.- [⛔] -----
-    10.-[⛔] -----
-    11.-[⛔] -----
-    12.-[⛔] -----
-    13.-[⛔] -----
-    14.-[⛔] -----
-    15.-[⛔] -----
-    16.-[⛔] -----
+    4.- [✴️] Datos Number y String
+    5.- [⛔] Topic -> 1:52:17
+    6.- [⛔] Topic -> 1:52:17
+    7.- [⛔] Topic -> 1:52:17
+    8.- [⛔] Topic -> 1:52:17 
+    9.- [⛔] Topic -> 1:52:17
+    10.-[⛔] Topic -> 1:52:17
+    11.-[⛔] Topic -> 1:52:17
+    12.-[⛔] Objetos -> 1:52:17
+    13.-[✅] Eventos -> 1:52:17
+    14.-[✴️] Strings -> 2:01:15
+    15.-[⛔] Proyecto: Calculadora -> 2:23:29
+    16.-[⛔] Arrays (Listas) -> 2:35:23
     17.-[⛔] -----
     18.-[⛔] -----
     19.-[⛔] -----

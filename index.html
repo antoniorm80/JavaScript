@@ -6,11 +6,29 @@
     <link rel="stylesheet" href="styles.css">
     <title>Curso de Javascript</title>
 </head>
-<body>
+<body onload="onload()">
     <h1>¿Qué es lo que puedo hacer con Javascript?</h1>
-    <p id="demostracion" ></p>        	
-
+    <p id="demostracion" >Marioneta </p>       
     <!-- <button type="button" onclick="document.getElementById('demostracion').innerHTML = 'Carlos Romo'"> Modificar</button> -->
+     <!-- // 13.- Eventos -> 1:52:17 -->
+     <h2>Eventos</h2>
+     <p id="seleccionable"></p>
+     <button type="button" onclick="mostrar()">Click Me</button>
+     <button type="button" onmouseover="mostrar()">Over Me</button>
+     <button type="button" onmouseout="mostrar()">Mouse Out</button>
+     <button type="button" onkeydown="mostrar()">KeyDown Me</button>
+
+    <hr>
+     
+    <select name="" id="" onchange="mostrar()">
+        <option value="HTML">HTML</option>
+        <option value="CSS">CSS</option>
+        <option value="Javascript">Javascript</option>
+        <option value="Typescript">Typescript</option>
+        <option value="React">React</option>
+        <option value="Angular">Angular</option>
+    </select>
+
     <script src="script.js"></script>
 </body>
 </html>
