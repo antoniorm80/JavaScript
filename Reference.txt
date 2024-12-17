@@ -30,11 +30,11 @@ Task: <----- ✅✴️⛔ ----->
     11.-[⛔] Topic -> 1:52:17
     12.-[⛔] Objetos -> 1:52:17
     13.-[✅] Eventos -> 1:52:17
-    14.-[✴️] Strings -> 2:01:15
-    15.-[⛔] Proyecto: Calculadora -> 2:23:29
-    16.-[⛔] Arrays (Listas) -> 2:35:23
-    17.-[⛔] -----
-    18.-[⛔] -----
+    14.-[✅] Strings -> 2:01:15
+    15.-[✅] Proyecto: Calculadora -> 2:23:29
+    16.-[✅] Arrays (Listas) -> 2:35:23  * !Important
+    17.-[✅] Date (Fecha) -> 3:24:43
+    18.-[✴️] Objeto Math -> 3:34:44
     19.-[⛔] -----
     20.-[⛔] -----
     21.-[⛔] -----

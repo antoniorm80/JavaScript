@@ -53,13 +53,13 @@ let stringTres = "Esta linea está arriba \ny esta está abajo"
 let text = 'Educación'
 // START 4 comienza DESDE el 4 (en el 5) HASTA el 7 (el 7 si lo toma)
 let resultadoSlice = text.slice(4,7);
-console.log(resultadoSlice) // Output 'aci'
+// console.log(resultadoSlice) // Output 'aci'
 
 let resultadoConNegativos = text.slice(-5,-2);
-console.log(resultadoConNegativos) // Output 'aci'
+// console.log(resultadoConNegativos) // Output 'aci'
 
 let resultadoSubString = text.substring(4,7);
-console.log(resultadoSubString) // Output 'aci'
+// console.log(resultadoSubString) // Output 'aci'
 
 
 // Replace 
@@ -68,8 +68,7 @@ let textReplace = 'Ve y embriagate de amor donde tú, lo puedes hacer'
 
 // Split
 const textoSplitUno = 'Separame'
-const textoSplitDos = 'Argentina'
-const textoSplitTres = 'MUNDO'
+//const resultadoUno = textoSplitUno.split('');
+// console.log(resultadoUno)
 
-const resultadoUno = textoSplitUno.split('');
-console.log(resultadoUno)
+
