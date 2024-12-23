@@ -24,15 +24,15 @@ Task: <----- ✅✴️⛔🅿️💡 ----->
     1.- [✅] Instalación de Programas -> 1:00:00
     2.- [✅] Javascript en HTML -> 0:05:29
     3.- [✅] Declaraciones y Asignaciones -> 0:16:40
-    4.- [✴️] Datos Number y String -> 0:35:06
-    5.- [⛔] Operadores en Javascript -> 0:40:34
-    6.- [⛔] Sintaxis de las variables -> 0:47:33
-    7.- [⛔] Scope (Disponibilidad) -> 0:51:16
-    8.- [⛔] Tipos de Datos -> 0:58:09 
-    9.- [⛔] Operadores Lógicos -> 1:05:38
-    10.-[⛔] NODE js (Consola) -> 1:15:35
-    11.-[⛔] Funciones -> 1:19:04
-    12.-[⛔] Objetos (literales) -> 1:40:05
+    4.- [✅] Datos Number y String -> 0:35:06
+    5.- [✅] Operadores en Javascript -> 0:40:34
+    6.- [✅] Sintaxis de las variables -> 0:47:33
+    7.- [✅] Scope (Disponibilidad) -> 0:51:16
+    8.- [✅] Tipos de Datos -> 0:58:09 
+    9.- [✅] Operadores Lógicos -> 1:05:38
+    10.-[✅] NODE js (Consola) -> 1:15:35
+    11.-[✅] Funciones -> 1:19:04
+    12.-[✅] Objetos (literales) -> 1:40:05
     13.-[✅] Eventos (DOM) -> 1:52:18
     14.-[✅] Strings -> 2:01:15
     15.-[🅿️] PROYECTO 1: Calculadora -> 2:23:30
