@@ -72,3 +72,25 @@ const textoSplitUno = 'Separame'
 // console.log(resultadoUno)
 
 
+function getAPI()  {
+    try {
+
+        let baseURL = "https://jsonplaceholder.typicode.com"
+        let endPoint =  "posts"
+
+        let request = fetch(`${baseURL}/${endPoint}`)
+        .then(response => response.json())
+        .then(json => {
+            document.getElementById('registros').innerHTML = json[2].body
+            console.log(json) 
+        })
+
+        return response
+        
+    } catch (error) {
+        console.log(error)
+    }
+  
+        
+}
+

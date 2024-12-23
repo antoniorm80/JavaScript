@@ -15,38 +15,47 @@ Repositorio - Github:
 Hosting- SiteGround:
   
 Youtube - Curso de Javascropt: - 8:17:00
+
+Links:
+    https://jsonplaceholder.typicode.com/
+
     
-Task: <----- ✅✴️⛔ ----->
-    1.- [✅] Instalación de Programas
-    2.- [✅] Javascript en HTML
-    3.- [✅] Declaraciones y Asignaciones
-    4.- [✴️] Datos Number y String
-    5.- [⛔] Topic -> 1:52:17
-    6.- [⛔] Topic -> 1:52:17
-    7.- [⛔] Topic -> 1:52:17
-    8.- [⛔] Topic -> 1:52:17 
-    9.- [⛔] Topic -> 1:52:17
-    10.-[⛔] Topic -> 1:52:17
-    11.-[⛔] Topic -> 1:52:17
-    12.-[⛔] Objetos -> 1:52:17
-    13.-[✅] Eventos -> 1:52:17
+Task: <----- ✅✴️⛔🅿️💡 ----->
+    1.- [✅] Instalación de Programas -> 1:00:00
+    2.- [✅] Javascript en HTML -> 0:05:29
+    3.- [✅] Declaraciones y Asignaciones -> 0:16:40
+    4.- [✴️] Datos Number y String -> 0:35:06
+    5.- [⛔] Operadores en Javascript -> 0:40:34
+    6.- [⛔] Sintaxis de las variables -> 0:47:33
+    7.- [⛔] Scope (Disponibilidad) -> 0:51:16
+    8.- [⛔] Tipos de Datos -> 0:58:09 
+    9.- [⛔] Operadores Lógicos -> 1:05:38
+    10.-[⛔] NODE js (Consola) -> 1:15:35
+    11.-[⛔] Funciones -> 1:19:04
+    12.-[⛔] Objetos (literales) -> 1:40:05
+    13.-[✅] Eventos (DOM) -> 1:52:18
     14.-[✅] Strings -> 2:01:15
-    15.-[✅] Proyecto: Calculadora -> 2:23:29
-    16.-[✅] Arrays (Listas) -> 2:35:23  * !Important
+    15.-[🅿️] PROYECTO 1: Calculadora -> 2:23:30
+    16.-[✅] Arrays (Listas) -> 2:35:24 ---> 💡!Important
     17.-[✅] Date (Fecha) -> 3:24:43
-    18.-[✴️] Objeto Math -> 3:34:44
-    19.-[⛔] -----
-    20.-[⛔] -----
-    21.-[⛔] -----
-    22.-[⛔] -----
-    23.-[⛔] -----
-    24.-[⛔] -----
-    25.-[⛔] -----
-    26.-[⛔] -----
-    27.-[⛔] -----
-    28.-[⛔] -----
-    29.-[⛔] -----
-    30.-[⛔] -----
+    18.-[✅] Objeto Math -> 3:34:44
+    19.-[✅] if / else / switch (Condicionales) -> 3:40:19
+    20.-[🅿️] PROYECTO 2: Juego de Adivinanza -> 3:58:08
+    21.-[✅] For, While, DoWhile (Bucles) -> 4:14:50
+    22.-[✅] Set y Maps -> 4:33:22 ---> 💡!Important 
+    23.-[✅] TypeOf & InstanceOf -> 4:44:13
+    24.-[✅] Conversión de datos -> 4:58:54 ---> 💡!Important
+    25.-[🅿️] PROYECTO 3: Venta Viajes -> 5:12:57
+    26.-[✅] Regex: Expresiones Regulares -> 5:49:29 ---> 💡!Important
+    27.-[✅] Try & Catch (Manejo de errores síncronos) -> 5:57:21
+    28.-[✅] Callbacks -> 6:06:31
+    29.-[✅] Promesas -> 6:09:29
+    30.-[✅] Async & Await -> 6:18:56
+    31.-[✅] Fetch API's JSON -> 6:24:05
+    32.-[🅿️] PROYECTO 4: Aplicación del Clima -> 6:54:41
+    33.-[🅿️] PROYECTO 5: Formulario con Firebase -> 7:23:26
+    34.-[🅿️] PROYECTO 6: Buscador de Películas -> 7:53:06
+    
   
     
 

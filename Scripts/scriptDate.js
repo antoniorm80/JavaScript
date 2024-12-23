@@ -22,17 +22,17 @@ let meses = [
 ]
 
 const resultado = fecha.getDate() + '-' + meses[fecha.getMonth()] + '-' + fecha.getFullYear()
-console.log(resultado)
+// console.log(resultado)
 
 // Set
 fecha.setFullYear(2029)
 fecha.setMonth(9)
 fecha.setDate(29)
 const resultadoSet = fecha.getDate() + '-' + meses[fecha.getMonth()] + '-' + fecha.getFullYear()
-console.log(resultadoSet)
+// console.log(resultadoSet)
 
 let mes = fecha.getMonth() + 1
 const resultadoDos = fecha.getDate() + '/' + mes + '/' + fecha.getFullYear()
-console.log(resultadoDos)
+// console.log(resultadoDos)
 
 
