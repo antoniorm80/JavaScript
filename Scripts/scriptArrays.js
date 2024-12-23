@@ -144,7 +144,7 @@ const arrayConcatFrutas = ["Manzana", "Naranja", "Limón", 'Pera']
 const arrayConcatVerduaras = ["Tomate", "Cebolla", "Lechuga", 'Repollo']
 // console.log(arrayConcatFrutas.concat(arrayConcatVerduaras))
 
-// sort() - Otra forma de Ordenar con números repetidos.
+// sort() - Otra forma de Ordenar con números repetidos.  !important - Code Challenge
 const arraySortNumber = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 // console.log(arraySortNumber.sort((x, y) => x - y )) // Ascendente
 // console.log(arraySortNumber.sort((x, y) => y - x )) // Descendente

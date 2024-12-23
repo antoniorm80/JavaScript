@@ -1,7 +1,7 @@
 Reference:
   Inicio: Dic 14, 2024      
   Tiempo: 8:17:00 
-  Actualización: 
+  Completado: Dec 23, 2024
 
 Folder:
     C:\Proyectos\Repositorios\Sergio Code\Javascript\Curso\index.html
