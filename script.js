@@ -1,4 +1,7 @@
 
+// DOM (Document Object Model): Es una representación estructurada de un documento HTML
+//                              Se organiza como un arbol de nodos y cada nodo es un elemento
+
 // 2.- Javascript en HTML -> 0:05:29
 // document.getElementById('demostracion').innerHTML = 'Antonio Rivera'
 
