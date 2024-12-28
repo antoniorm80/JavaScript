@@ -15,11 +15,13 @@ Repositorio - Github:
 Hosting- Netlify:
     https://agencia-viajes2024.netlify.app/
     https://vanilla-forms2024-168358.netlify.app/
+    https://vanilla-peliculas2024.netlify.app/
   
 Youtube - Curso de Javascropt: - 8:17:00
 
 Links:
     https://jsonplaceholder.typicode.com/
+    APIS: ariverarm80,ariverarm80@gmail.com,Apis###m*x*s
 
     
 Task: <----- ✅✴️⛔🅿️💡 ----->
