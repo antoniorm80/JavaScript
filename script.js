@@ -259,6 +259,9 @@ const vendedor = {
 console.log(vendedor.vender())
 console.log(vendedor.nombreCompleto())
 console.log(vendedor.habilidadesBlandas)
+for(let hab of vendedor.habilidadesBlandas) {
+    console.log(hab)
+}
 
 // 13.- Eventos -> 1:52:17
 function mostrar(){

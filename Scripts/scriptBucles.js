@@ -32,6 +32,7 @@ const alumno = {
 }
 for(const clave in alumno) {
     console.log(alumno[clave])
+    
 }
 
 // ForEACH

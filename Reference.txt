@@ -12,16 +12,38 @@ Documentación:
 Repositorio - Github:
     https://github.com/antoniorm80/Javascript
 
+Conexión a base de datos de MySQL - phpAdmin SiteGround - antoniorm80
+    https://www.youtube.com/watch?v=pwY4k0Jg_
+
+REST API en SiteGround
+    https://antonior132.sg-host.com/api/positions
+
+JSON Formatter
+    https://jsonformatter.curiousconcept.com/
+
+Firebase:
+    https://firebase.google.com/?hl=es-419
+
 Hosting- Netlify:
-    https://agencia-viajes2024.netlify.app/
+    https://app.netlify.com/ --> Github Account
+    https://vanilla-calculadora2024.netlify.app/
+    https://vanilla-viajes2024.netlify.app/
     https://vanilla-forms2024-168358.netlify.app/
     https://vanilla-peliculas2024.netlify.app/
+    https://vanilla-adivinanza2024.netlify.app/
+    https://vanillla-clima2024.netlify.app/
   
-Youtube - Curso de Javascropt: - 8:17:00
+Youtube - Curso de Javascript: - 8:17:00
+
+Web.dev - Curso de Javascript by Google
+    https://web.dev/learn/javascript
 
 Links:
     https://jsonplaceholder.typicode.com/
     APIS: ariverarm80,ariverarm80@gmail.com,Apis###m*x*s
+
+SnippetsDevelop
+    https://github.com/SnippetsDevelop
 
     
 Task: <----- ✅✴️⛔🅿️💡 ----->
@@ -59,7 +81,7 @@ Task: <----- ✅✴️⛔🅿️💡 ----->
     32.-[🅿️] PROYECTO 4: Aplicación del Clima -> 6:54:41
     33.-[🅿️] PROYECTO 5: Formulario con Firebase -> 7:23:26
     34.-[🅿️] PROYECTO 6: Buscador de Películas -> 7:53:06
-    
-  
-    
 
+
+    Mouredev
+    Modre dev desarrollo de aplicacinoes móviles 
