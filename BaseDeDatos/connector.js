@@ -1,20 +1,20 @@
 var mysql = require('mysql');
 
 ////  ***** Localhost - Workbench ***** 
-var con  = mysql.createConnection({
-    host: '127.0.0.1',
-    user: 'root',
-    password: "Admin791mex*",
-    database: 'fabiola'
-})
+// var con  = mysql.createConnection({
+//     host: '127.0.0.1',
+//     user: 'root',
+//     password: "Admin791mex*",
+//     database: 'fabiola'
+// })
 
 ////  *****  Produccion - SiteGround (antoniorm80) ***** 
-// var con  = mysql.createConnection({
-//     host: 'antoniorm80.com',
-//     user: 'u9sqruhgxer6t',   
-//     password: '3#C}cr#1bm>*', 
-//     database: 'dbvv1j4zprhld7'
-// })
+var con  = mysql.createConnection({
+    host: 'antoniorm80.com',
+    user: 'u9sqruhgxer6t',   
+    password: '3#C}cr#1bm>*', 
+    database: 'dbvv1j4zprhld7'
+})
 
 con.connect(function(err){
     if(err){

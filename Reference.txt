@@ -81,7 +81,3 @@ Task: <----- ✅✴️⛔🅿️💡 ----->
     32.-[🅿️] PROYECTO 4: Aplicación del Clima -> 6:54:41
     33.-[🅿️] PROYECTO 5: Formulario con Firebase -> 7:23:26
     34.-[🅿️] PROYECTO 6: Buscador de Películas -> 7:53:06
-
-
-    Mouredev
-    Modre dev desarrollo de aplicacinoes móviles 
